@@ -1,1 +1,1 @@
-adguardhome
+adguardhome:latest
